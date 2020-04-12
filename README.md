@@ -13,7 +13,8 @@
 
 ```sh
 crontab -e
-*/5 * * * * /YOUR/FILE
+*/5 * * * * /YOUR/FOLDER/run.sh
+chmod +x /YOUR/FOLDER/run.sh
 ```
 
 ## Author
