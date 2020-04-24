@@ -10,6 +10,7 @@
 </p>
 
 ## Usage
+First edit the files.
 
 ```sh
 crontab -e
